@@ -23,8 +23,8 @@
 
 | Splash Screen | Onboarding Flow | Home Dashboard | Top Cities |
 | :---: | :---: | :---: | :---: |
-| ![Splash Screen](./splashscreen.png) | ![Onboarding](./onboarding.png) | ![Home](./Home.png) | ![Top Cities](./Topcities-seeall.png) |
+| ![Splash Screen](./splash%20screen.png) | ![Onboarding](./onboarding%201.png) | ![Home](./Home.png) | ![Top Cities](./Top%20cities-see%20all.png) |
 
 | Destination Details | Daily Itinerary Builder | Event Ticket Discovery | Stay Booking & Checkout |
 | :---: | :---: | :---: | :---: |
-| ![Destination Details](./placeaftersearch.png) | ![Itinerary](./Itinerary.png) | ![Events Ticket](./Events-ticket.png) | ![Booking](./booking.png) |
+| ![Destination Details](./place%20after%20search.png) | ![Itinerary](./Itinerary.png) | ![Events Ticket](./Events%20-ticket.png) | ![Booking](./booking.png) |
