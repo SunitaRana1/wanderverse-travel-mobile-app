@@ -4,7 +4,7 @@
 **Tools:** Figma (Mobile UI Design, Component Library, Interactive Prototyping)  
 **Platform:** iOS / Mobile Application  
 
-🔗 **[View Live Interactive Figma Prototype]([YOUR_FIGMA_PROTOTYPE_LINK])**
+🔗 **[View Live Interactive Figma Prototype](https://www.figma.com/design/OUIPkKUrt2lTtFILlJYcFK/Travel-Mobile-app?node-id=0-1&t=KNJzcHXoK7gFD1sV-1)**
 📄 **[View Full UI/UX Case Study (PDF)](./WANDERverse — UI_UX Case Study.pdf)**
 
 ---
