@@ -5,6 +5,7 @@
 **Platform:** iOS / Mobile Application  
 
 🔗 **[View Live Interactive Figma Prototype]([YOUR_FIGMA_PROTOTYPE_LINK])**
+📄 **[View Full UI/UX Case Study (PDF)]()**
 
 ---
 
