@@ -21,10 +21,10 @@
 
 ## 🖼️ Mobile Interface Screens
 
-| Splash & Onboarding | Home Dashboard | Destination Explore |
-| :---: | :---: | :---: |
-| ![Splash](./Splash.png) | ![Home](./Home.png) | ![Explore](./Explore.png) |
+| Splash Screen | Onboarding Flow | Home Dashboard | Top Cities |
+| :---: | :---: | :---: | :---: |
+| ![Splash Screen](./splashscreen.png) | ![Onboarding](./onboarding.png) | ![Home](./Home.png) | ![Top Cities](./Topcities-seeall.png) |
 
-| Daily Itinerary Builder | Booking & Checkout | Onboarding Flow |
-| :---: | :---: | :---: |
-| ![Itinerary](./Itinerary.png) | ![Booking](./Booking.png) | ![Onboarding](./Onboarding.png) |
+| Destination Details | Daily Itinerary Builder | Event Ticket Discovery | Stay Booking & Checkout |
+| :---: | :---: | :---: | :---: |
+| ![Destination Details](./placeaftersearch.png) | ![Itinerary](./Itinerary.png) | ![Events Ticket](./Events-ticket.png) | ![Booking](./booking.png) |
